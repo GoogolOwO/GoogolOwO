@@ -1,0 +1,2 @@
+- 我是Googol。
+- 我的论坛是 https://note.freeflarum.com/
