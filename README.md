@@ -1,2 +1,1 @@
-- 我是Googol。
-- 我的论坛是 https://note.freeflarum.com/
+我是 Googol，一个 Note.ms 用户。经常被误解为 Gongxiang01 等用户。
