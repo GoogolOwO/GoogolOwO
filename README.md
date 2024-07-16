@@ -6,3 +6,13 @@
 我进行过以下项目的 Issue / PRs：
 * TiddlyWiki
 * Flarum (Extensions)
+
+----
+
+论坛被 DDoS？你依然可以加入 ProtectNote。发送邮箱至 googology@outlook.com 按照以下格式加入：
+
+```
+<一个简短的自我介绍>
+CleanNote是：
+怎么保护页面：
+```
