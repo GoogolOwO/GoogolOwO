@@ -16,3 +16,7 @@
 CleanNote是：
 怎么保护页面：
 ```
+
+----
+
+**通知**：目前 NoteBBS 由于 SKevo 的恶意行为，目前已经迁移至 https://note-bbs.wikidot.com ！
