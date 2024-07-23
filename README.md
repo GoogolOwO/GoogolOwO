@@ -19,4 +19,4 @@ CleanNote是：
 
 ----
 
-**通知**：目前 NoteBBS 由于 SKevo 的恶意行为，目前已经迁移至 https://note-bbs.wikidot.com ！
+**通知**：目前 NoteBBS 由于 SKevo 的恶意行为，目前已经迁移至 https://notebbs2.wikidot.com ！
